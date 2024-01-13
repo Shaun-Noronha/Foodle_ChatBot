@@ -43,10 +43,10 @@ python filename.py
 * BeautifulSoup (Web scraping)
 
 ## Team Members
-* Melita Lewis 
+* Shaun Noronha 
 * Sushree Nadiminty
 * Angelica Sebastian
-* Shaun Noronha
+* Melita Lewis
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/melita-celia/foodle-chatbot/blob/main/LICENSE) file for details.
